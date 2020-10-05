@@ -7,7 +7,7 @@
 
 - **[멀티캠퍼스](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp)** 에서 [삼성 청년 SW 아카데미](https://www.ssafy.com/) 교육생들을 위한 커리큘럼과 과제를 만들었습니다.
 - **[소테리아](http://www.soteria-sys.com/)** 에서 Unix 환경에서의 로깅/백업 시스템을 연구했습니다.
-- **[MMLAB](https://mmlab.snu.ac.kr/)** 에서 TLS 프로토콜 관련 연구를 했습니다.
+- **[MMLAB](https://mmlab.snu.ac.kr/)** 에서 TLS 프로토콜  연구를 했습니다.
 
 ### 📫 연락처
 
