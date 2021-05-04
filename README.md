@@ -6,7 +6,7 @@ My name is Gyeongjae Choi, a software developer living in South Korea.
 
 ### What I'm up to
 
-- I'm currently working at [ADD(Agency for Defense Developement, 국방과학연구소)](https://www.add.re.kr/) for my military service. My recent work is focused on building machine learning models for military perpose.
+- I'm currently working at [ADD(Agency for Defense Developement, 국방과학연구소)](https://www.add.re.kr/) for my military service. My recent work is focused on building machine learning models for military purpose.
 - I enjoy learning and analyzing new technologies. I often post interesting things I learn to [my blog](http://ryanking13.github.io) (Sorry, it's mostly written in Korean.).
 
 ### Previous works
