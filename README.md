@@ -7,14 +7,7 @@ My name is Gyeongjae Choi, a software developer living in South Korea.
 ### What I'm up to
 
 - I'm currently working at [ADD(Agency for Defense Developement, 국방과학연구소)](https://www.add.re.kr/) for my military service. My recent work is focused on building machine learning models for military purpose.
-- I enjoy learning and analyzing new technologies. I often post interesting things I learn to [my blog](http://ryanking13.github.io) (It's mostly written in Korean.).
-
-### Previous works
-
-- At **[Multicampus](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp)**,
-I worked on making an educational projects for [SSAFY(Samsung Software Academy For Youth)](https://www.ssafy.com/).
-- At **[Soteria](http://www.soteria-sys.com/)**, I worked on building a system for [realtime logging and backup](http://www.soteria-sys.com/servlet/home/products/server-black-box).
-- At **[MMLAB]()**, I worked on making a new [TLS protocol extension](https://cdn.codeground.org/nsr/downloads/sstf_2019/SSTF2019%20OTT_Defense_Hyunwoo_Lee.pdf).
+- I enjoy learning new technologies. I often post interesting things on [my blog](http://ryanking13.github.io) (It's mostly written in Korean.).
 
 ### 📫 How to Reach Me
 
