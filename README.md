@@ -8,7 +8,6 @@ My name is Gyeongjae Choi, a software engineer living in South Korea.
 
 - [E-mail](mailto:def6488@gmail.com)
 - [Linkedin](https://www.linkedin.com/in/gyeongjae-choi-b259b0163)
-- [Blog](https://ryanking13.github.io)
 
 <!--
 **ryanking13/ryanking13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
